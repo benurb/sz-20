@@ -850,8 +850,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":32,
          "firstgid":354,
-         "source":"meals.tsx"
+         "image":"meals.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"meals",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
